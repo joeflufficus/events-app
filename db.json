@@ -1,0 +1,7 @@
+{
+  "events": [
+    { "id": 1, "name": "Launch Party", "description": "Celebrating the product launch with the whole team.", "company": "GEEKFARM", "color": "red", "isActive": true },
+    { "id": 2, "name": "Quarterly Review", "description": "Reviewing goals and results for the last quarter.", "company": "ACME", "color": "blue", "isActive": true },
+    { "id": 3, "name": "Hack Day", "description": "A full day to build side projects and experiments.", "company": "ZENCO", "color": "green", "isActive": true }
+  ]
+}
